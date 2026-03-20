@@ -8,3 +8,13 @@ Tests fulfill the requirements for SDS Test Plan as a part of the rubric.
 Aden Moon:
 Completed test cases TC007, TC008 that implement tests for timeRemaining in Cart and FoodNames in Food. 
 Completed System information of Test Plan.
+
+19 Mar 2026
+
+Amani Paul:
+
+Completed test cases TC001, TC002, TC003, TC009, and TC010 that implement testing of units (functions) and systems (pages). 
+
+Tested units and systems with appropriate priority levels for later fixes. 
+
+
