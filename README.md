@@ -4,10 +4,11 @@ Aden Moon:
 Contributed to writing diagram modifications and discussion tradeoff. 
 Discussed with team members about the diagram, tradeoffs, and alternatives.
 
-9 April 2026
+09 April 2026
 
 Jaylan Luong: 
 Created and Updated Software Architectural Diagram with MySQL and reformated databases.
+Discussed the necessary modifications needed to update our previous diagram with bidirectional arrows to fit our current data management strategy.
 
 19 Mar 2026
 
