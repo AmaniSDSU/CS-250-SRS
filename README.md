@@ -1,3 +1,8 @@
+9 April 2026
+
+Jaylan Luong: 
+Created and Updated Software Architectural Diagram with MySQL and reformated databases.
+
 19 Mar 2026
 
 Jaylan Luong: 
