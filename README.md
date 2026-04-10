@@ -1,3 +1,9 @@
+09 April 2026
+Aden Moon:
+
+Contributed to writing diagram modifications and discussion tradeoff. 
+Discussed with team members about the diagram, tradeoffs, and alternatives.
+
 9 April 2026
 
 Jaylan Luong: 
